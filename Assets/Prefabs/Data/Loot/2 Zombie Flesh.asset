@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a38c3589bff46ee8b2420fbfeae91f3, type: 3}
+  m_Name: 2 Zombie Flesh
+  m_EditorClassIdentifier: 
+  Name: "\u041F\u043B\u043E\u0442\u044C \u0437\u043E\u043C\u0431\u0438"
+  Sprite: {fileID: 21300000, guid: d44f6865f42ca39448500daef88c4c16, type: 3}
+  Meshs:
+  - {fileID: -2432090755550338912, guid: 743c293761fcde84a904c26a7ab5c18c, type: 3}
+  - {fileID: -2432090755550338912, guid: e226c1438deb928469754a6ccb9c19ae, type: 3}
+  - {fileID: -2432090755550338912, guid: 9c165d594fc765d4782c5f4ac5f9d046, type: 3}
+  - {fileID: -2432090755550338912, guid: 40237882b607fa64695d1d785a4cafc4, type: 3}

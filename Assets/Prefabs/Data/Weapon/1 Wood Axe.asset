@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98bd765e88db76b49a7b43e2b893faf2, type: 3}
+  m_Name: 1 Wood Axe
+  m_EditorClassIdentifier: 
+  Name: "\u0414\u0435\u0440\u0435\u0432\u044F\u043D\u043D\u044B\u0439 \u0442\u043E\u043F\u043E\u0440"
+  Damage: 5
+  ChanceVampirism: 0
+  ChanceCritical: 0.35
+  AttackTypeSpeed: 0
+  Offset: {x: -0.107, y: 0.041, z: 0.2}
+  Mesh: {fileID: -2432090755550338912, guid: 804f5041bf6bb1242ba31a24c0f8c244, type: 3}
+  GradientTrail:
+    serializedVersion: 2
+    key0: {r: 0.7169812, g: 0.35708475, b: 0, a: 1}
+    key1: {r: 1, g: 0.43529415, b: 0, a: 0.69411767}
+    key2: {r: 1, g: 1, b: 1, a: 0.8627451}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 65535
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 65535
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2

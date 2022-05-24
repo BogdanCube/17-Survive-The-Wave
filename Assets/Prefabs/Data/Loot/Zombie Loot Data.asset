@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3450d3acb36848c097174a9a78aa6040, type: 3}
+  m_Name: Zombie Loot Data
+  m_EditorClassIdentifier: 
+  Items:
+  - Items:
+    - Item: {fileID: 11400000, guid: f91cdccd3100cd042816b0127ba21977, type: 2}
+      MaxAmount: 3
+    - Item: {fileID: 11400000, guid: e224de12594e3f94dbca371414fd4cdb, type: 2}
+      MaxAmount: 3
+  - Items:
+    - Item: {fileID: 11400000, guid: b4cde8bb6be145346a392b60f1456c35, type: 2}
+      MaxAmount: 3
+    - Item: {fileID: 11400000, guid: f91cdccd3100cd042816b0127ba21977, type: 2}
+      MaxAmount: 2
+  - Items:
+    - Item: {fileID: 11400000, guid: f91cdccd3100cd042816b0127ba21977, type: 2}
+      MaxAmount: 4
+    - Item: {fileID: 11400000, guid: b4cde8bb6be145346a392b60f1456c35, type: 2}
+      MaxAmount: 2
+    - Item: {fileID: 11400000, guid: e224de12594e3f94dbca371414fd4cdb, type: 2}
+      MaxAmount: 5
+    - Item: {fileID: 11400000, guid: 07e7f535d856ed74ab578a74fb835aab, type: 2}
+      MaxAmount: 1
+  - Items:
+    - Item: {fileID: 11400000, guid: b4cde8bb6be145346a392b60f1456c35, type: 2}
+      MaxAmount: 2
+    - Item: {fileID: 11400000, guid: f91cdccd3100cd042816b0127ba21977, type: 2}
+      MaxAmount: 5
+    - Item: {fileID: 11400000, guid: e224de12594e3f94dbca371414fd4cdb, type: 2}
+      MaxAmount: 2
+    - Item: {fileID: 11400000, guid: 07e7f535d856ed74ab578a74fb835aab, type: 2}
+      MaxAmount: 3
